@@ -24,7 +24,7 @@ ROUTERS (Layer 3):
 - are used to send data over the Internet.
 - Routers forward based on IP addresses
 
-FIREWALL (Can be Level 3,4, and 7):
+FIREWALL (Can be Layer 3,4, and 7):
 
 - Firewalls are specialty hardware network security devices that control network traffic entering/exiting your network.
 - Can be places "inside" or "outside" the network.
