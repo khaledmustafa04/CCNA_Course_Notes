@@ -123,7 +123,7 @@ PIN#6 -----> PIN#2
 
 ---
 
-Most modern equipment now has AUTO MDI-X which **automatically detects** which pins their neighbour is transmitting on and adjust the pins they receive data on.
+Most modern equipment now has AUTO MDI-X(Automatic Medium-Dependent Interface Crossover) which **automatically detects** which pins their neighbour is transmitting on and adjust the pins they receive data on.
 
 1000BASE-T/10GBASE-T = 4 pairs (8 wires)
 
