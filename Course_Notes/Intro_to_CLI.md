@@ -24,7 +24,7 @@ You can use a "Rollover cable" : DB9 serial connector to RJ45 OR a DB9 Serial to
 Speed (baud) : 9600 bits/second
 Data bits: 8 data bits
 Stop bits: 1 stop bit (sent after 8 data bits are sent)
-Parity: None
+Parity(error detection): None
 Flow Control: None
 
 ---
