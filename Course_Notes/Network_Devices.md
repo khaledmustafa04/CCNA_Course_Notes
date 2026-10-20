@@ -31,3 +31,5 @@ FIREWALL (Can be Layer 3,4, and 7):
 - Monitor and control network traffic based on configured rules.
 - Are known as "Next-Generation Firewalls" when they include more modern and advanced filtering capabilities.
 - Host-based firewalls are software applications that filter traffic entering and exiting a host machine, like a PC.
+
+https://www.geeksforgeeks.org/computer-networks/types-of-network-topology/
